@@ -1,4 +1,5 @@
 # README
+#Twitch TV Chat Bot- An Amazing Project
 ---
 Move `chatterbot/config.py.dist` to `chatterbot/config.py` and modify it to your needs.
 
